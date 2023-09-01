@@ -14,4 +14,4 @@ The results presented in this folder are part of the following publication:
   url={https://doi.org/10.1103/PhysRevFluids.3.083401}
 }
 
-To download data: https://drive.google.com/file/d/1b9rJY6-Nuk_VCXfr1FOrZEjjigpL-2TF/view?usp=sharing
+To download data: https://doi.org/10.5281/zenodo.8307822
